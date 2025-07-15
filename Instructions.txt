@@ -1,0 +1,38 @@
+How to Restart Everything:
+
+
+Start your Django backend:
+
+	- Open a new cmd window.
+	
+	- Go to your backend folder:
+	
+		cd \Users\manue\OneDrive\Documents\Projects\personal-blog-platform\backend
+	
+	- Activate your virtual environment:
+	
+		venv\Scripts\activate
+
+	- Start Django:
+
+		python manage.py runserver
+
+
+Start your React frontend:
+
+	- Open a new cmd window.
+
+	- Go to your frontend folder:
+
+		cd \Users\manue\OneDrive\Documents\Projects\personal-blog-platform\frontend
+	
+	- Start React:
+
+		npm start
+	
+Once both servers are running, your app will work in your browser as before!
+
+You need to do this every time you restart your computer or close the terminals.
+
+
+Weather App key: https://home.openweathermap.org/ - bdf869ab7324d6bf61912d179c448200
